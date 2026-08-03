@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="260" src="https://media1.tenor.com/m/gHZm9koBHUIAAAAd/cat-smiling-cat.gif" alt="cat gif" />
+<img align="right" width="200" src="https://media1.tenor.com/m/gHZm9koBHUIAAAAd/cat-smiling-cat.gif" alt="cat gif" />
 
 - 🎓 First-year **Computer Science** student at **Cracow University of Technology**
 - 🏫 Graduate of a **5-year IT technical school** — *programming technician* (INF.03 & INF.04)
@@ -45,6 +45,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 🏆 Hackathons
+ 
+Team projects built under time pressure — I worked on the **frontend** in each:
+ 
+- **[ZUSim](https://github.com/bezoski/ZUSim-HackYeah2k25)** — pension simulator on real ZUS data · *HackYeah 2025*
+- **[Investify](https://github.com/bezoski/Investify-HackYeah2024)** — financial-literacy platform with quizzes and a demo trading feature · *HackYeah 2024*
+- **[Stellar Journey](https://github.com/bezoski/Stellar-Journey-SpaceApps2024)** — project built at *NASA Space Apps Challenge 2024*, Stalowa Wola
 
 ---
 
