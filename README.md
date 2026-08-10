@@ -17,7 +17,7 @@
 
 <img align="right" width="200" src="https://media1.tenor.com/m/gHZm9koBHUIAAAAd/cat-smiling-cat.gif" alt="cat gif" />
 
-- 🎓 First-year **Computer Science** student at **Cracow University of Technology**
+- 🎓 Second year **Computer Science** student at **Cracow University of Technology**
 - 🏫 Graduate of a **5-year IT technical school** — *programming technician* (INF.03 & INF.04)
 - 🌱 Turning ideas into working software
 - 🌐 More about me: **[rafal-buczkowski.me](https://rafal-buczkowski.me)**
