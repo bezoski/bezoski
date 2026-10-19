@@ -7,7 +7,7 @@
 
 ### Computer Science Student & Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+at+Cracow+University+of+Technology;5+years+of+IT+technical+school+background" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+at+PK+Kracow+University+of+Technology;5+years+of+IT+technical+school+background" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <img align="right" width="200" src="https://media1.tenor.com/m/gHZm9koBHUIAAAAd/cat-smiling-cat.gif" alt="cat gif" />
 
-- 🎓 Second year **Computer Science** student at **Cracow University of Technology**
+- 🎓 Second year **Computer Science** student at **PK Kracow University of Technology**
 - 🏫 Graduate of a **5-year IT technical school** — *programming technician* (INF.03 & INF.04)
 - 🌱 Turning ideas into working software
 - 🌐 More about me: **[rafal-buczkowski.me](https://rafal-buczkowski.me)**
